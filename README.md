@@ -4,6 +4,9 @@ the Six Sigma technique.
 
 ## Installation
 
+First and foremost, be sure to grab the most recent release from the releases page,[here](https://github.com/lulamae12/Six-Sigma-Grapher/releases)
+
+
 ### To install .zip file
 1. Download compressed folder and place it where you would like it to be installed.
 2. Right click the compressed folder and click "Extract all".
