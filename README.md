@@ -3,7 +3,7 @@ Six Sigma Grapher is a program written in Python for Sims Metal Management that 
 the Six Sigma technique.
 
 ## Installation
-
+---
 First and foremost, be sure to grab the most recent release from the releases page, [here](https://github.com/lulamae12/Six-Sigma-Grapher/releases) .
 
 
@@ -27,10 +27,11 @@ Six Sigma Grapher should now be installed in the folder, "SixSigmaGrapher".
 Six Sigma Grapher should now be installed in the folder, "SixSigmaGrapher".
 
 ## Launching Six Sigma Grapher
-
+---
 To run Six Sigma Grapher, double click "SixSigmaGrapher.exe".
 
 A manual on how to use the program is included within the help menu of the program.
 
 ## Support
+---
 Having trouble? Veiw the [source code](https://github.com/lulamae12/Six-Sigma-Grapher) or create an issue.
