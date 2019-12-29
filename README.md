@@ -13,8 +13,7 @@ First and foremost, be sure to grab the most recent release from the releases pa
 1. Download compressed folder and place it where you would like it to be installed.
 2. Right click the compressed folder and click "Extract all".
 3. Follow the on-screen instructions.
-
-  Six Sigma Grapher should now be installed in the folder, "SixSigmaGrapher".
+Six Sigma Grapher should now be installed in the folder, "SixSigmaGrapher".
 
 
 ### To install .7z file
@@ -25,8 +24,7 @@ First and foremost, be sure to grab the most recent release from the releases pa
 
 1. Download the .7z file and place it where you would like it to be installed.
 2. Right click the file and hover over "7Zip". Select "Extract Here" from the menu.
-
-  Six Sigma Grapher should now be installed in the folder, "SixSigmaGrapher".
+Six Sigma Grapher should now be installed in the folder, "SixSigmaGrapher".
 
 ## Launching Six Sigma Grapher
 
