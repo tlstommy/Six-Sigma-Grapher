@@ -1,40 +1,31 @@
 ## Six Sigma Grapher
-You can use the [editor on GitHub](https://github.com/lulamae12/Six-Sigma-Grapher/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Six Sigma Grapher is a program written in Python that allows the graphing of floating and sinking plastics using
+Six Sigma Grapher is a program written in Python for Sims Metal Management that allows the graphing of floating and sinking plastics using
 the Six Sigma technique.
 
 
+### Installation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# To install .zip file
+1. Download compressed folder and place it where you would like it to be installed.
+2. Right click the compressed folder and click "Extract all".
+3. Follow the on-screen instructions.
 
-### Markdown
+Six Sigma Grapher should now be installed in the folder, "SixSigmaGrapher".
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# To install .7z file
+- To install the .7z file, 7Zip must be installed. If it is not installed, it can be installed from [here](https://www.7-zip.org/download.html)
 
-# Header 1
-## Header 2
-### Header 3
+1. Download the .7z file and place it where you would like it to be installed.
+2. Right click the file and hover over "7Zip". Select "Extract Here" from the menu.
 
-- Bulleted
-- List
+Six Sigma Grapher should now be installed in the folder, "SixSigmaGrapher".
 
-1. Numbered
-2. List
+### Launching Six Sigma Grapher
 
-**Bold** and _Italic_ and `Code` text
+To run Six Sigma Grapher, double click "SixSigmaGrapher.exe".
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lulamae12/Six-Sigma-Grapher/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A manual on how to use the program is included within the help menu of the program.
 
 ### Support
 Having trouble? Veiw the [source code](https://github.com/lulamae12/Six-Sigma-Grapher) or create an issue.
