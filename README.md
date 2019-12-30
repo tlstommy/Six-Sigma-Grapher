@@ -40,4 +40,4 @@ A manual on how to use the program is included within the help menu of the progr
 
 ## Support
 ---
-Having trouble? Veiw the [source code](https://github.com/lulamae12/Six-Sigma-Grapher) or create an issue.
+Having trouble? View the [source code](https://github.com/lulamae12/Six-Sigma-Grapher) or create an issue.
