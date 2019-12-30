@@ -7,7 +7,7 @@ First and foremost, be sure to grab the most recent release from the releases pa
 
 
 ### Installing SixSigmaGrapher.zip
-- Download latest release from the [releases page](https://github.com/lulamae12/Six-Sigma-Grapher/releases).
+- Download the latest release of "SixSigmaGrapher" from the [releases page](https://github.com/lulamae12/Six-Sigma-Grapher/releases).
 
 1. Download the compressed folder and place it where you would like it to be installed.
 2. Right click the compressed folder and click "Extract all".
@@ -17,7 +17,7 @@ Six Sigma Grapher should now be installed in the folder, "SixSigmaGrapher".
 
 
 ### Installing SixSigmaGrapher.7z
-- Download latest release from the [releases page](https://github.com/lulamae12/Six-Sigma-Grapher/releases).
+- Download the latest release of "SixSigmaGrapher.7z" from the [releases page](https://github.com/lulamae12/Six-Sigma-Grapher/releases).
 
 - To install a .7z file, 7Zip must be installed. If it is not installed, it can be installed from [here](https://www.7-zip.org/download.html)
 
