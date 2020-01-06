@@ -1,4 +1,4 @@
-# Six Sigma Grapher v0.7
+# Six Sigma Grapher v0.8
 
 Six Sigma Grapher is a program written in Python for Sims Metal Management that allows the graphing of floating and sinking plastics using the Six Sigma technique.
 
